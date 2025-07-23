@@ -4,6 +4,10 @@
 
 ## 🚀 About The Project
 
+## Screenshot
+<img width="1402" height="889" alt="image" src="https://github.com/user-attachments/assets/c2517a03-ccd4-4f3b-ae55-5c8bbecc242a" />
+
+
 This project is a minimalist, interactive front-end clone of Quora built with **React**. It demonstrates core React concepts, including state management, component-based architecture, and user interaction, all styled beautifully with **Tailwind CSS**.
 
 It's a single-page application that simulates the core functionalities of a question-and-answer platform:
@@ -49,9 +53,9 @@ Make sure you have **Node.js** and **npm** (Node Package Manager) installed on y
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/quora-clone.git](https://github.com/your-username/quora-clone.git)
+    git clone https://github.com/DeepanshuSehrawat/Quora-2
     ```
-    (Replace `https://github.com/your-username/quora-clone.git` with the actual URL of your repository.)
+    
 2.  **Navigate into the project directory:**
     ```bash
     cd quora-clone
@@ -91,16 +95,5 @@ If you have a suggestion that would make this project better, please fork the re
 
 ---
 
-## 📄 License
 
-Distributed under the MIT License. See the `LICENSE` file in the repository for more information.
 
----
-
-## 📧 Contact
-
-Your Name - your\_email@example.com
-
-Project Link: [https://github.com/your-username/quora-clone](https://github.com/your-username/quora-clone)
-
----
